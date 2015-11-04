@@ -1,0 +1,13 @@
+{
+  "name": "WebAPI.Angular2",
+  "version": "0.0.0",
+  "devDependencies": {},
+  "dependencies": {
+    "angular2": "^2.0.0-alpha.45",
+    "systemjs": "^0.19.5",
+    "typescript": "^1.6.2"
+  },
+  "scripts": {
+    "tsc": "tsc -w"
+  }
+}
